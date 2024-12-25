@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Edit Asma
+cartoonize/*
+data/*
+epochs/*
+validations_oupouts/*
+validations_oupouts_seperated/*
+test_images/*
+generator_final.pth
