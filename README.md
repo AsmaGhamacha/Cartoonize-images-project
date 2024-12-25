@@ -87,21 +87,21 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
 ## Steps
 
 ### 1. Prepare Dataset:
-```bash
+```
 # Run prepare_data.py to generate paired images
 python prepare_data.py
-
+```
 ### 2. Run prepare_data.py to generate paired images
-python prepare_data.py
+```python prepare_data.py```
 
 ### 3. Train the Pix2Pix GAN using:
-python train_pix2pix.py
+```python train_pix2pix.py```
 
 ### 4. Use inference_pix2pix.py to generate cartoonized images:
-python inference_pix2pix.py
+```python inference_pix2pix.py```
 
 ### 5. Run validate_pix2pix.py to generate validation results and metrics:
-python validate_pix2pix.py
+```python validate_pix2pix.py```
 
 
 
