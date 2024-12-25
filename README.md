@@ -69,6 +69,9 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
 ├── 📄 requirements.txt                 # Dependencies
 ├── 📄 README.md                        # Project description
 
+![image](https://github.com/user-attachments/assets/c909f541-aa20-44c6-950b-02bcd5bb135e)
+
+
 
 ## How to Run
 ### **Setup Environment**
