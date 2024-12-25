@@ -35,20 +35,12 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
 - Generated output images showing the input, output (generated), and target images. 
 - Example outputs:
 
-| **Input Image**            | **Output Image**            | **Target Image**            |
-|-----------------------------|-----------------------------|-----------------------------|
-| ![Input](![input_303](https://github.com/user-attachments/assets/8507c3ef-ca5c-4ba7-a670-3cd6000b216c)
-) | ![Output](![output_303](https://github.com/user-attachments/assets/c27bb4e7-bfce-46d5-80f3-7c330007ff95)
-) | ![Target](![target_303](https://github.com/user-attachments/assets/e981698f-5091-451c-985e-f1227452cd33)
-) |
-| ![Input](![input_283](https://github.com/user-attachments/assets/c0812b5f-1d49-4a73-a1bb-d485feacf9be)
-) | ![Output](![output_283](https://github.com/user-attachments/assets/cbd5012c-0bb3-4039-932f-0b26fb0181e3)
-) | ![Target](![target_283](https://github.com/user-attachments/assets/1f0d15dc-27f3-466f-91dc-079bdee31d4a)
-) |
-| ![Input](![input_492](https://github.com/user-attachments/assets/762e45b3-c213-4cf7-b2d2-cdf1b0e61c6d)
-) | ![Output](![output_492](https://github.com/user-attachments/assets/3f6aa2f0-8a54-4935-b75e-d053d0fa87ef)
-) | ![Target](![target_492](https://github.com/user-attachments/assets/8b04ef0b-64ee-4ea7-9ab6-ef8f2b8a3d7f)
-) |
+| **Input Image**                          | **Output Image**                         | **Target Image**                         |
+|------------------------------------------|------------------------------------------|------------------------------------------|
+| ![Input](https://github.com/user-attachments/assets/8507c3ef-ca5c-4ba7-a670-3cd6000b216c) | ![Output](https://github.com/user-attachments/assets/c27bb4e7-bfce-46d5-80f3-7c330007ff95) | ![Target](https://github.com/user-attachments/assets/e981698f-5091-451c-985e-f1227452cd33) |
+| ![Input](https://github.com/user-attachments/assets/c0812b5f-1d49-4a73-a1bb-d485feacf9be) | ![Output](https://github.com/user-attachments/assets/cbd5012c-0bb3-4039-932f-0b26fb0181e3) | ![Target](https://github.com/user-attachments/assets/1f0d15dc-27f3-466f-91dc-079bdee31d4a) |
+| ![Input](https://github.com/user-attachments/assets/762e45b3-c213-4cf7-b2d2-cdf1b0e61c6d) | ![Output](https://github.com/user-attachments/assets/3f6aa2f0-8a54-4935-b75e-d053d0fa87ef) | ![Target](https://github.com/user-attachments/assets/8b04ef0b-64ee-4ea7-9ab6-ef8f2b8a3d7f) |
+
 
 ### **5. Evaluation**
 - **Performance Metrics**:
