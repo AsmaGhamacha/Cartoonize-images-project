@@ -48,7 +48,8 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
   - 
 - **Plots**:
   - Loss vs. Epochs:  
-    ![Loss vs Epochs](https://github.com/user-attachments/assets/ce404097-07eb-4f55-88e3-f5d288f6c9b0)
+    ![Loss vs Epochs](https://github.com/user-attachments/assets/856d7012-ae4f-4319-8a63-e9501b737efc)
 
   - Training Time vs. Epochs:  
-    ![Training Time vs Epochs](https://github.com/user-attachments/assets/20bb1708-21d9-4b43-8b0a-3c80ef22ee1e)
+    ![Training Time vs Epochs](https://github.com/user-attachments/assets/ddca6ee6-42a4-4f53-ae7a-54d003af4329)
+
