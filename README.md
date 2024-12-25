@@ -45,10 +45,10 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
 ### **5. Evaluation**
 - **Performance Metrics**:
   - Average Structural Similarity Index (SSIM): **0.7986** (calculated for all test pairs).
+  - 
 - **Plots**:
-  - Loss vs. Epochs:
-    ![Loss vs Epochs](![target_492](https://github.com/user-attachments/assets/ce404097-07eb-4f55-88e3-f5d288f6c9b0)
-)
-  - Training Time vs. Epochs:
-    ![Training Time vs Epochs](![target_492](https://github.com/user-attachments/assets/20bb1708-21d9-4b43-8b0a-3c80ef22ee1e)
-)
+  - Loss vs. Epochs:  
+    ![Loss vs Epochs](https://github.com/user-attachments/assets/ce404097-07eb-4f55-88e3-f5d288f6c9b0)
+
+  - Training Time vs. Epochs:  
+    ![Training Time vs Epochs](https://github.com/user-attachments/assets/20bb1708-21d9-4b43-8b0a-3c80ef22ee1e)
