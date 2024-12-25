@@ -53,3 +53,18 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
   - Training Time vs. Epochs:  
     ![Training Time vs Epochs](https://github.com/user-attachments/assets/ddca6ee6-42a4-4f53-ae7a-54d003af4329)
 
+
+## Project Structure
+📂 Project Folder
+├── 📂 data                             # Dataset and paired images
+├── 📂 epochs                           # Generator and discriminator checkpoints
+├── 📂 validation_outputs               # Output images from validation but combined in one single image : input (real) , output (by the model), target (by cartoonize.py)
+├── 📂 validation_outputs_seperated     # Output images from validation but seperated
+├── 📂 plots                            # Plots for evaluation
+├── 📄 cartoonize.py                    # Script to cartoonize images
+├── 📄 prepare_data.py                  # Script to pair real and cartoonized images and prepare them for pix2pix model
+├── 📄 train_pix2pix.py                 # Script to train the GAN
+├── 📄 pix2pix_model.py                 # Pix2Pix GAN model definition
+├── 📄 inference_pix2pix.py             # Script to test the GAN on new image
+├── 📄 requirements.txt                 # Dependencies
+├── 📄 README.md                        # Project description
