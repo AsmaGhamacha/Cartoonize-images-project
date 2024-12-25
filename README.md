@@ -68,3 +68,39 @@ This project uses a Pix2Pix Generative Adversarial Network (GAN) to transform re
 ├── 📄 inference_pix2pix.py             # Script to test the GAN on new image
 ├── 📄 requirements.txt                 # Dependencies
 ├── 📄 README.md                        # Project description
+
+
+## How to Run
+### **Setup Environment**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AsmaGhamacha/cartoonize-images_project.git
+   cd cartoonize-images_project
+
+2. Install dependencies:
+    ```bash
+    python -m venv env
+    source env/bin/activate   # Linux/macOS
+    env\Scripts\activate      # Windows
+    pip install -r requirements.txt
+
+## Steps
+
+### 1. Prepare Dataset:
+##### Run prepare_data.py to generate paired images
+python prepare_data.py
+
+##### Train the Pix2Pix GAN using:
+python train_pix2pix.py
+
+##### Use inference_pix2pix.py to generate cartoonized images:
+python inference_pix2pix.py
+
+##### Run validate_pix2pix.py to generate validation results and metrics:
+python validate_pix2pix.py
+
+
+
+
+    
+
